@@ -1,0 +1,6 @@
+# Password Security Analyzer
+# This project uses only the Python standard library (3.10+).
+# No third-party packages are required.
+#
+# Optional (development):
+# pytest>=8.0.0
