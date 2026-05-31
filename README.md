@@ -1,6 +1,6 @@
 # Web Vulnerability Scanner
 
-A lightweight web security scanner written in Python.
+A web security scanner written in Python.
 
 I created this project while learning web application security concepts and practicing Python development. The scanner performs several basic security checks on a target website and generates a simple report of the findings.
 
